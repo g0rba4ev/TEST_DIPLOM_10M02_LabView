@@ -1149,6 +1149,7 @@
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="test.vi" Type="VI" URL="../source/test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
